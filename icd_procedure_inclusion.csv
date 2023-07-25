@@ -1,0 +1,32 @@
+﻿Grouping,ICD_PCS,Description,source
+THYMECTOMY,075M0ZZ,"Destruction of Thymus, Open Approach",UCB Master 
+THYMECTOMY,075M3ZZ,"Destruction of Thymus, Percutaneous Approach",UCB Master 
+THYMECTOMY,07BM0ZZ,"Excision of Thymus, Open Approach",UCB Master 
+THYMECTOMY,07BM3ZZ,"Excision of Thymus, Percutaneous Approach",UCB Master 
+THYMECTOMY,07BM4ZZ,"Excision of Thymus, Percutaneous Endoscopic Approach",UCB Master 
+THYMECTOMY,075M4ZZ,"DESTRUCTION OF THYMUS, PERCUTANEOUS ENDOSCOPIC APPROACH",Compile
+THYMECTOMY,07BM0ZX,"EXCISION OF THYMUS, OPEN APPROACH, DIAGNOSTIC",Compile
+THYMECTOMY,07BM3ZX,"EXCISION OF THYMUS, PERCUTANEOUS APPROACH, DIAGNOSTIC",Compile
+THYMECTOMY,07BM4ZX,"EXCISION OF THYMUS, PERCUTANEOUS ENDOSCOPIC APPROACH, DIAGNOSTIC",Compile
+RESPIRATORY FAILURE,0B21XEZ,"Change Endotracheal Airway in Trachea, External Approach",UCB Master 
+RESPIRATORY FAILURE,0BH13EZ,"Insertion of Endotracheal Airway into Trachea, Percutaneous Approach",UCB Master 
+RESPIRATORY FAILURE,0BH17EZ,"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening",UCB Master 
+RESPIRATORY FAILURE,0BH18EZ,"Insertion of Endotracheal Airway into Trachea, Via Natural or Artificial Opening Endoscopic",UCB Master 
+IG,30230S1,"Transfusion of Nonautologous Globulin into Peripheral Vein, Open Approach",UCB Master 
+IG,30233S1,"Transfusion of Nonautologous Globulin into Peripheral Vein, Percutaneous Approach",UCB Master 
+IG,30240S1,"Transfusion of Nonautologous Globulin into Central Vein, Open Approach",UCB Master 
+IG,30243S1,"Transfusion of Nonautologous Globulin into Central Vein, Percutaneous Approach",UCB Master 
+IG,30250S1,"Transfusion of Nonautologous Globulin into Peripheral Artery, Open Approach",UCB Master 
+IG,30253S1,"Transfusion of Nonautologous Globulin into Peripheral Artery, Percutaneous Approach",UCB Master 
+IG,30260S1,"Transfusion of Nonautologous Globulin into Central Artery, Open Approach",UCB Master 
+IG,30263S1,"Transfusion of Nonautologous Globulin into Central Artery, Percutaneous Approach",UCB Master 
+IG,30273S1,"Transfusion of Nonautologous Globulin into Products of Conception, Circulatory, Percutaneous Approach",UCB Master 
+IG,30277S1,"Transfusion of Nonautologous Globulin into Products of Conception, Circulatory, Via Natural or Artificial Opening",UCB Master 
+RESPIRATORY FAILURE,5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",UCB Master 
+RESPIRATORY FAILURE,5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure",UCB Master 
+RESPIRATORY FAILURE,5A09457,"Assistance with Respiratory Ventilation, 24",UCB Master 
+RESPIRATORY FAILURE,5A09458,"Assistance with Respiratory Ventilation, 24",UCB Master 
+RESPIRATORY FAILURE,5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",UCB Master 
+RESPIRATORY FAILURE,5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure",UCB Master 
+PLEX,6A550Z3,"Pheresis of Plasma, Single",UCB Master 
+PLEX,6A551Z3,"Pheresis of Plasma, Multiple",UCB Master 
